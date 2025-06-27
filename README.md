@@ -16,7 +16,7 @@ A simple and user-friendly web app to generate strong, secure, and customizable 
 
 ## 📸 Demo
 
-You can try it out here: [Live Demo](https://aztra7.github.io/random-password-generator)  
+You can try it out here: [Live Demo](https://aztra7.github.io/Random-Password-Generator/)  
 
 ## 🛠 Tech Stack
 
@@ -40,7 +40,7 @@ You can try it out here: [Live Demo](https://aztra7.github.io/random-password-ge
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/aztra7/random-password-generator.git
+   git clone https://github.com/aztra7/Random-Password-Generator.git
 2. Open index.html in your browser.
 
 
